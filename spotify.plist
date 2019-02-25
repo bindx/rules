@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>https://enjoy.tweakbox.pro/ipa/tweaked/youtubeplusplus.ipa</string>  
+                    <string>https://enjoy.tweakbox.pro/ipa/tweaked/spotifyplusplus.ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>https://i.imgur.com/ar5ElJd.png</string>  
+                    <string>http://is2.mzstatic.com/image/thumb/Purple127/v4/55/84/6a/55846adb-32c7-3ccf-c6ee-788519f53f82/source/512x512bb.jpg</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>https://i.imgur.com/ar5ElJd.png</string>  
+                    <string>http://is2.mzstatic.com/image/thumb/Purple127/v4/55/84/6a/55846adb-32c7-3ccf-c6ee-788519f53f82/source/512x512bb.jpg</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
